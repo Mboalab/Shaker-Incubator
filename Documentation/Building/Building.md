@@ -1,7 +1,11 @@
 ## Getting started with assembly
 
-This equipment is a shaker-incubator, designed to keep the contents at a constant temperature above the ambient temperature while providing agitation (orbital shaking). The shaker incubator is made up of 4 (four) main parts: **The electronic control box** : Centralizing the command and control of shaker’s speed as well as Incubation time and
-temperature; **The shaker module**(oscillating board): embeded in acrylic box and providing shaking surface ; **The heat source**: Enabling fast generation and incrementation of heat within the incubator; **The fan**: Enabling rapid and even distribution of heat within the incubator.
+This equipment is a shaker-incubator, designed to keep the contents at a constant temperature above the ambient temperature while providing agitation (orbital shaking). The shaker incubator is made up of 4 (four) main parts: 
+
+**The electronic control box** : Centralizing the command and control of shaker’s speed as well as Incubation time and temperature;
+**The shaker module**(oscillating board): embeded in acrylic box and providing shaking surface ; 
+**The heat source**: Enabling fast generation and incrementation of heat within the incubator;
+**The fan**: Enabling rapid and even distribution of heat within the incubator.
 
 It is an insulated box (7mm acrylic glass) that contains a heater (lightbulb), a temperature sensor and some electronics and software that will control the temperature to keep it constant and also o adjust the speed of the oscillating board at the level input by the user. 
 
@@ -11,23 +15,29 @@ To build the device you will need to undertake some basic soldering and load sof
 
 If you have questions you can contact [@LabMboa](https://twitter.com/labmboa?lang=en) on Twitter or send an email to [Mboalab CMR](mboalab@gmail.com)
 
-<img src="https://github.com/FOSH-following-demand/Incubator/blob/master/documentation/images/electronics_enclosure.jpg" width="33%"/> <img src="https://github.com/FOSH-following-demand/Incubator/blob/master/documentation/images/incubator_team.jpg" width="33%"/> <img src="https://github.com/FOSH-following-demand/Incubator/blob/master/documentation/images/closed_incubator_frontview.jpg" width="33%"/> 
+<img src="Documentation/Images/Shaker_Incubator_3D_Display0.jpeg" width="33%"/> <img src="Documentation/Images/Shaker_Incubator_Electric wirering_assembly_Display.jpeg" width="33%"/> <img src="Documentation/Images/Shaker_Incubator_Front_1.jpg" width="33%"/> 
 <br>
 
 ## Gathering your materials
 
-The list of components and tools required can be found in the [Bill of Materials](https://github.com/FOSH-following-demand/Incubator/blob/master/hardware/BOM/BOM.md). 
+The list of components and tools required can be found in the [Bill of Materials](). 
 
 <br>
 
 
 ## Build Steps
 
-### Assembling the electronics
+### Printing 3D parts and Laser cutting
+
+### Assembling and testing the electronics
+
+### Constructing the incubator box
 
 ### Constructing the electronics enclosure
 
 ### Integrating the electronics with the cooler box
+
+### Mounting the shaker
 
 ### Checking that it works
 
