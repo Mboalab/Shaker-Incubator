@@ -5,7 +5,7 @@ MboaLab in Cameroon were awarded a $750 grant by the Build Free and Open Science
 **Why a Shaker-incubator?**
 Most biology labs in Cameroon and elsewhere in resource-constrained contexts are under-equipped due to the high cost of lab equipment and it is essential for many protocols including open enzyme manufacturing to provide optimal conditions for cell growth, where some type of agitation or shaking is necessary to incorporate oxygen and evenly distribute nutrients throughout the culture media. That's often done by placing a separate shaker inside an incubator, but incubator shakers combine those functions for a more convenient and efficient setup. The incubator shaker can be used for growth of just about any kind of cell including bacterial cultures, tissue cultures, and yeast. 
 
-**Why opn hardware?**
+**Why open hardware?**
 We believe that DIY and Open Science Hardware can facilitate access to low-cost and high-quality equipment for biology labs in Cameroon, Ghana and beyond. 
 
 All resources are openly licensed and linked below.
