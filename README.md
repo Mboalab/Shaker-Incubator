@@ -10,7 +10,7 @@ We believe that DIY and Open Science Hardware can facilitate access to low-cost 
 
 All resources are openly licensed and linked below.
 
-![closed incubator frontview](https://github.com/FOSH-following-demand/Incubator/blob/master/documentation/images/closed_incubator_frontview.jpg)
+![Shaker incubator frontview](Documentation/Images/Shaker_Incubator_Front_2.jpg)
 
 # Build you own incubator
 
