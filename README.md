@@ -20,13 +20,9 @@ All resources are openly licensed and linked below.
 
 # Related Links
 
--   Documentation of Hive BioLab build on [Benchling](https://benchling.com/harry_akligoh/f/lib_UTO5lXRH-hive-biolab/etr_TNTAtGl7-building-and-testing-a-37-deg-celsius-incubator/edit)
--   Documentation of Hive BioLab build on [WikiFactory](https://wikifactory.com/+biolabkh/incubator)
-
 # Acknowledgements
 
--   Ongola FabLab and OER Cameroon Team: Ariel Kameni and Yves Obame
--   Kumasi Hive Makerspace Team: Evans Tetteh-Djangbah and Isaac Atia-Abugbilla 
+-   OPGES: Ariel Kameni
 -   Image credits for Incubator: MboaLab Team
 
 # Licensing
