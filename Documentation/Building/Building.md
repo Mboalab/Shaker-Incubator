@@ -1,7 +1,6 @@
 ## Getting started with assembly
 
 This equipment is a shaker-incubator, designed to keep the contents at a constant temperature above the ambient temperature while providing agitation (orbital shaking). The shaker incubator is made up of 4 (four) main parts: 
-
 **The electronic control box** : Centralizing the command and control of shaker’s speed as well as Incubation time and temperature;
 **The shaker module**(oscillating board): embeded in acrylic box and providing shaking surface ; 
 **The heat source**: Enabling fast generation and incrementation of heat within the incubator;
@@ -15,7 +14,7 @@ To build the device you will need to undertake some basic soldering and load sof
 
 If you have questions you can contact [@LabMboa](https://twitter.com/labmboa?lang=en) on Twitter or send an email to [Mboalab CMR](mboalab@gmail.com)
 
-<img src="Documentation/Images/Shaker_Incubator_3D_Display0.jpeg" width="33%"/> <img src="Documentation/Images/Shaker_Incubator_Electric wirering_assembly_Display.jpeg" width="33%"/> <img src="Documentation/Images/Shaker_Incubator_Front_1.jpg" width="33%"/> 
+<img src="https://github.com/Mboalab/Shaker-Incubator/blob/main/Documentation/Images/Shaker_Incubator_3D_Display0.jpeg" width="33%"/> <img src="https://github.com/Mboalab/Shaker-Incubator/blob/main/Documentation/Images/Shaker_Incubator_Electric%20wirering_assembly_Display.jpeg" width="33%"/> <img src="https://github.com/Mboalab/Shaker-Incubator/blob/main/Documentation/Images/Shaker_Incubator_Front_2.jpg" width="33%"/> 
 <br>
 
 ## Gathering your materials
