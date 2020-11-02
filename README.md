@@ -14,8 +14,8 @@ All resources are openly licensed and linked below.
 
 # Build you own incubator
 
- - If you would like to build the device, get started by following the [build documentation](https://github.com/FOSH-following-demand/Incubator/tree/master/documentation/building)
- - The folders in this repository contain details of the [materials needed](https://github.com/FOSH-following-demand/Incubator/tree/master/hardware/BOM), laser cut design for the [enclosure](https://github.com/FOSH-following-demand/Incubator/tree/master/hardware/enclosure), the Arduino-based [electronics design](https://github.com/FOSH-following-demand/Incubator/tree/master/hardware/electronics) and firmware.
+ - If you would like to build the device, get started by following the [build documentation](https://github.com/Mboalab/Shaker-Incubator/blob/main/Documentation/Building/Building.md)
+ - The folders in this repository contain details of the [materials needed](https://github.com/Mboalab/Shaker-Incubator/blob/main/Hardware/BOM/BOM.md), laser cut design [files](https://github.com/Mboalab/Shaker-Incubator/tree/main/Hardware/Laser_Cut_Files), the Arduino-based [electronics design](https://github.com/Mboalab/Shaker-Incubator/tree/main/Hardware/Electronics) and firmware.
  - If you have questions or suggestions for improvements, please [add an issue](https://github.com/FOSH-following-demand/Incubator/issues) or make a pull request.
 
 # Related Links
