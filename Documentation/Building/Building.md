@@ -6,7 +6,7 @@ This equipment is a shaker-incubator, designed to keep the contents at a constan
 **The heat source**: Enabling fast generation and incrementation of heat within the incubator;
 **The fan**: Enabling rapid and even distribution of heat within the incubator.
 
-It is an insulated box (7mm acrylic glass) that contains a heater (lightbulb), a temperature sensor and some electronics and software that will control the temperature to keep it constant and also o adjust the speed of the oscillating board at the level input by the user. 
+It is an insulated box (8mm acrylic glass) that contains a heater (lightbulb), a temperature sensor and some electronics and software that will control the temperature to keep it constant and also o adjust the speed of the oscillating board at the level input by the user. 
 
 The primary use case is microbiology. It is essential for many protocols to have optimal growth temperature and for important microrganisms such as _Escherichia coli_ bacteria. However, most biology labs in Cameroon and elsewhere in resource-constrained contexts are under-equipped due to the high cost of lab equipment. Other use cases include washing blots, general mixing of solution and drying chamber.
 
