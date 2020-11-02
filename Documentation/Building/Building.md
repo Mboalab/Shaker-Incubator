@@ -42,4 +42,9 @@ The list of components and tools required can be found in the [Bill of Materials
 
  - Use a separate thermometer to verify that the temperature is reaching the correct point and is maintained.
 
+Note: 
+
+*3D files were generated with the software Rhino 3D version 6. Design files are opening with Rhino software.
+Laser cutting files were generated with the software Inkscape.*
+
 
