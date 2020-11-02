@@ -19,6 +19,7 @@ All resources are openly licensed and linked below.
  - If you have questions or suggestions for improvements, please [add an issue](https://github.com/Mboalab/Shaker-Incubator/issues) or make a pull request.
 
 # Related Links
+Beneficial Bio: ensuring the future of biomanufacturing is for the many and not the few(https://beneficial.bio/blogs/blog/beneficial-bio-ensuring-the-future-of-biomanufacturing-is-for-the-many-and-not-the-few)
 
 # Acknowledgements
 
@@ -27,5 +28,5 @@ All resources are openly licensed and linked below.
 
 # Licensing
 
-This hardware is licensed under [INSERT LICENSE HERE]
+This hardware is licensed under [GNU General Public License v3.0](https://github.com/Mboalab/Shaker-Incubator/blob/main/License.md)
 
