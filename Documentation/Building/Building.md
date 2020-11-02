@@ -19,7 +19,7 @@ If you have questions you can contact [@LabMboa](https://twitter.com/labmboa?lan
 
 ## Gathering your materials
 
-The list of components and tools required can be found in the [Bill of Materials](). 
+The list of components and tools required can be found in the [Bill of Materials](https://github.com/Mboalab/Shaker-Incubator/blob/main/Hardware/BOM/BOM.md). 
 
 <br>
 
